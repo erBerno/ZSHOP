@@ -1,0 +1,7 @@
+[
+  { "title": "INICIO", "to": "/homepages/homepage1" },
+  { "title": "SERVICIOS", "to": "/other/services" },
+  { "title": "NOSOTROS", "to": "/other/about" },
+  { "title": "TIENDA", "to": "/shop/fullwidth-4col" },
+  { "title": "ADMINISTRACIÓN", "to": "/administration/login" }
+]
